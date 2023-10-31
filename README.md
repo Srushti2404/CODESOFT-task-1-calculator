@@ -1,1 +1,3 @@
 # CODESOFT
+simple calculator which can perform simple arithmatic operations
+like addition, substraction, multiplication,division....
